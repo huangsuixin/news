@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_index"
+        android:checked="true"
+        android:icon="@drawable/index_selector"
+        android:title="首页"/>
+
+    <!--<news_item-->
+        <!--android:id="@+id/nav_xigua"-->
+        <!--android:icon="@drawable/xigua_selector"-->
+        <!--android:title="旅院视频"/>-->
+    <!--<news_item-->
+        <!--android:id="@+id/nav_fabu"-->
+        <!--android:icon="@drawable/fabu"-->
+        <!--android:title="发布"/>-->
+    <!--<news_item-->
+        <!--android:id="@+id/nav_shiping"-->
+        <!--android:icon="@drawable/shiping_selector"-->
+        <!--android:title="信本资源"/>-->
+    <item
+        android:id="@+id/nav_mine"
+        android:icon="@drawable/mine_selector"
+        android:title="我的"/>
+
+
+</menu>
